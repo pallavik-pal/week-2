@@ -18,7 +18,6 @@ def login(username, password):
     else:
         return "Invalid credentials"
 
-# Main loop
 while True:
     print("\nChoose an option:")
     print("1. Register")
